@@ -2,11 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Musings of J. Kessa Roberts</title>
-    <description>&gt; # Educator, PHD Student, &amp; Buckeye.</description>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
     <link>http://kessaroberts.github.io/</link>
     <atom:link href="http://kessaroberts.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 29 Apr 2015 15:46:49 -0400</pubDate>
-    <lastBuildDate>Wed, 29 Apr 2015 15:46:49 -0400</lastBuildDate>
+    <pubDate>Wed, 29 Apr 2015 16:31:09 -0400</pubDate>
+    <lastBuildDate>Wed, 29 Apr 2015 16:31:09 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
