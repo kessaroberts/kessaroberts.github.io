@@ -1,0 +1,13 @@
+# Site settings
+title: The Musings of J. Kessa Roberts
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Kessa Roberts is a doctoral student in Educational Policy at The Ohio State University.
+  Her intersts include parental involvement & rural education.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://kessaroberts.github.io" # the base hostname & protocol for your site
+twitter_username: kessaroberts
+github_username:  kessaroberts
+
+# Build settings
+markdown: kramdown
